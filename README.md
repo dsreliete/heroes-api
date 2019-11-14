@@ -1,5 +1,8 @@
+## Heroes API
+
 Código implementado durante o curso  Node.js para Iniciantes By #NodeBR! desenvolvido por Erick Wendel.
 
+Notas para Eliete do futuro:
 Para rodar o projeto inicialmente vc deve:
 ---instalar todas as dependencias utilizando o comando ```npm i```
 
